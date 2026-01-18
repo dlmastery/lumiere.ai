@@ -1,0 +1,5 @@
+{
+  "name": "Lumiere.ai",
+  "description": "A stunning, AI-powered video creation platform inspired by Steve.ai. Generate scripts, storyboards, and full videos from simple text prompts using Google Gemini and Veo models.",
+  "requestFramePermissions": []
+}
